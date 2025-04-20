@@ -1,0 +1,1 @@
+#!/bin/bash\n# SBATCH --nodes=4\n# SBATCH --gpus-per-node=8\necho 'Launching job'
