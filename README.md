@@ -1,1 +1,1 @@
-# Job Launch Manager\nScripts for cluster execution.
+# Distributed AI Launch Manager\n\nA comprehensive orchestration tool for submitting and managing PyTorch DistributedDataParallel (DDP) training jobs on Slurm-based GPU clusters for large 3D CNNs.
